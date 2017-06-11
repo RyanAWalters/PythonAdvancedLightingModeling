@@ -5,6 +5,12 @@ Model that creates the classic image of reflective spheres on a checkerboard.
 
 *This program renders a full image, so it runs RIDICULOUSLY slow. There isn't a way around this, as the hurdle is inherent in the required implementation*
 
+**If you decide to run this program, I am not responsible for your computer slowing down until the image is rendered.**
+
+<p align="center">
+  <img src="1.png" width="400">
+</p>
+
 Ryan Walters
   Louisiana Tech University
   2/22/17
